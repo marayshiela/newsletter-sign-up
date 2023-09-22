@@ -41,8 +41,7 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://your-live-site-url.com](https://marayshiela.github.io/newsletter-sign-up/))
 
 ## My process
 - design a layout using HTML semantics
